@@ -99,7 +99,7 @@ tower_goal = 25  # Need to collect this many towers to win
 # Items and obstacles
 items = []
 item_speed = 5
-spawn_rate = 60  # Frames between spawns
+spawn_rate = 40  # Frames between spawns
 spawn_counter = 0
 
 # Create close button (only for gameplay and upgrade screens)
